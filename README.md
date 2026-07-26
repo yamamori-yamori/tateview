@@ -11,7 +11,7 @@
 ---
 
 ## 使い方
- 
+
 1. [こちら](https://github.com/yamamori-yamori/tateview/raw/refs/heads/main/TateView.zip)をダウンロードしてzipを解凍し、`TateView.html` をブラウザで開く（Chrome / Edge / Firefox 推奨）。
    または、 [作者HP](https://yamamori-yamori.github.io/mypage/)から「WEB版」をご使用ください。
 2. 左上の「開く」でテキストファイルを指定してください。ドラッグアンドドロップも出来ます。
@@ -40,5 +40,7 @@
 　ドラッグアンドドロップサポート。未編集画面クリックでファイル選択追加。
 - ver.1.1 公開。
 　左のサムネイルをミニマップに変更。マウスドラッグでスクロール可能にした。
+- ver.1.11 公開。
+　ミニマップに検索も対応。黄色で色が付きます。
 
 
