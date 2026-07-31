@@ -12,7 +12,7 @@
 
 ## 使い方
 
-1. [こちら](https://github.com/yamamori-yamori/tateview/raw/refs/heads/main/TateView.zip)をダウンロードしてzipを解凍し、`TateView.html` をブラウザで開く（Chrome / Edge / Firefox 推奨）。  
+1. [こちら](https://github.com/yamamori-yamori/tateview/raw/refs/heads/main/TateView.zip)をダウンロードしてzipを解凍し、`TateView.html` をブラウザで開く（Chrome推奨）。  
    または、 [作者HP](https://yamamori-yamori.github.io/mypage/)から「WEB版」をご使用ください。
 2. 左上の「開く」でテキストファイルを指定してください。ドラッグアンドドロップも出来ます。
 3. 右上側で原稿用紙のフォーマットを設定できます。
